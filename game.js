@@ -48,9 +48,9 @@ function randomise(){
     }
 
 
- 
+    num3box.innerHTML=num3;
 
-
+}
 // Iteration 3: Creating variables required to make the game functional
 
 num1box.innerHTML=num1;
@@ -62,7 +62,7 @@ num3box.innerHTML=num3;
 
 // Iteration 5: Creating a randomise function to make the game functional
 
-}
+
 
 randomise()
 
